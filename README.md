@@ -23,7 +23,7 @@ Flask Blog is a web application developed using Flask, a lightweight web framewo
 
 ## Deployment
 
-This project is deployed on Render and can be accessed at   [[https://www.python.org/downloads/](https://late-rosmunda-goran-ivanovski-29cf461d.koyeb.app/)]([https://www.python.org/downloads/](https://late-rosmunda-goran-ivanovski-29cf461d.koyeb.app/))
+This project is deployed on Render and can be accessed at   [(https://late-rosmunda-goran-ivanovski-29cf461d.koyeb.app/)](https://late-rosmunda-goran-ivanovski-29cf461d.koyeb.app/)
 
 ## Installation
 
